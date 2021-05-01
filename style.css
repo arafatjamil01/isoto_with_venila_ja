@@ -1,0 +1,22 @@
+.product-menu button {
+	border: none;
+	font-size: 13px;
+	background: none;
+	color: #818181;
+	margin-right: 10px;
+	font-weight: 600;
+	-webkit-transition: .3s;
+	transition: .3s;
+	line-height: 28px;
+    cursor: pointer;
+    
+}
+.product-items .filterDiv {
+	display: none;
+}
+.product-items .show {
+	display: block;
+}
+.product-menu .active{
+    color: red;
+}
